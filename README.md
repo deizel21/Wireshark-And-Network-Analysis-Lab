@@ -6,6 +6,9 @@ Azure Wireshark Lab
 >
 </p>
 
+<img width="1344" height="755" alt="image" src="https://github.com/user-attachments/assets/f7f86392-acc2-4307-a591-16f6fe310b8f" />
+
+
 ## Lab 2 - WIRESHARK /NETWORK ANALYSIS 
 
 Windows Server 2025 · Azure · Identity & Access Management
